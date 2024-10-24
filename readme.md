@@ -1,5 +1,23 @@
 # Project Datasets
 
+##Использование
+
+titanic_train.csv
+```
+data = pd.read_csv('https://raw.githubusercontent.com/abrosimov-d/python-course-datasets/refs/heads/main/googleplaystore.csv')
+```
+
+googleplaystore.csv
+```
+data = pd.read_csv('https://raw.githubusercontent.com/abrosimov-d/python-course-datasets/refs/heads/main/titanic_train.csv')
+```
+
+bike-sharing
+```
+data = pd.read_csv('https://raw.githubusercontent.com/abrosimov-d/python-course-datasets/refs/heads/main/bike-sharing/hour.csv')
+```
+
+
 ## Titanic Train Dataset (`titanic_train.csv`)
 
 Этот датасет включает информацию о пассажирах Титаника, предназначенную для предсказания их выживаемости.
