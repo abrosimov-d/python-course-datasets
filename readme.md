@@ -1,4 +1,4 @@
-# Project Datasets
+# python-course-datasets
 
 ## Использование
 
