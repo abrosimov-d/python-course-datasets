@@ -2,12 +2,12 @@
 
 ## Использование
 
-titanic_train.csv
+googleplaystore.csv
 ```
 data = pd.read_csv('https://raw.githubusercontent.com/abrosimov-d/python-course-datasets/refs/heads/main/googleplaystore.csv')
 ```
 
-googleplaystore.csv
+titanic_train.csv
 ```
 data = pd.read_csv('https://raw.githubusercontent.com/abrosimov-d/python-course-datasets/refs/heads/main/titanic_train.csv')
 ```
