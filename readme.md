@@ -14,6 +14,8 @@ data = pd.read_csv('https://raw.githubusercontent.com/abrosimov-d/python-course-
 
 bike-sharing
 ```
+data = pd.read_csv('https://raw.githubusercontent.com/abrosimov-d/python-course-datasets/refs/heads/main/bike-sharing/day.csv')
+
 data = pd.read_csv('https://raw.githubusercontent.com/abrosimov-d/python-course-datasets/refs/heads/main/bike-sharing/hour.csv')
 ```
 
